@@ -3,7 +3,7 @@
 🎓 Étudiant chez OpenClassrooms | 🚀 Développeur Python/Django en formation  
 
 ## ✨ À propos de moi  
-Je suis actuellement en formation chez OpenClassrooms pour devenir **Développeur Python/Django**. Mon parcours comprend la réalisation de **13 projets** qui me permettent d'acquérir des compétences solides en développement web back-end.  
+Je suis actuellement en formation chez **OpenClassrooms** pour devenir **Développeur Python/Django**. Mon parcours comprend la réalisation de **13 projets** qui me permettent d'acquérir des compétences solides en développement web back-end.  
 
 ## 🛠 Compétences Techniques  
 
@@ -34,6 +34,6 @@ Je travaille sur plusieurs projets durant ma formation, allant de la création d
 
 ## 📫 Me contacter  
 💼 [LinkedIn](https://www.linkedin.com/in/matthieu-chambon-b713a41a2)  
-📧 [Email](mailto:matthieu.chambon44@gmail.com)  
+📧 [Email](mailto:matthieu.chambon44@gmail.com) (matthieu.chambon44@gmail.com)
 
 N’hésitez pas à me suivre pour voir mes projets et mon évolution ! 🚀  
