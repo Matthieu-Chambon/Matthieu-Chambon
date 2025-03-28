@@ -12,7 +12,7 @@ Je suis actuellement en formation chez **OpenClassrooms** pour devenir **Dévelo
 - 🏗️ **Django** : Développement d’applications web avec Django et Django REST Framework
 - 🌍 **Web** : HTML5, CSS3, JavaScript
 
-### **💾 Développement Backend**
+### **💾 Développement Back-end**
 - 🏛️ **Architecture d’applications web** : Modèle MVC et bonnes pratiques
 - 🔗 **Création d’APIs sécurisées** : Mise en place et consommation d’APIs REST
 - 🗄️ **Bases de données SQL** : Conception et modélisation avec PostgreSQL
