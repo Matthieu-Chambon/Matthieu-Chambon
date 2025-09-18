@@ -15,7 +15,7 @@ Je suis actuellement en formation chez **OpenClassrooms** pour devenir **Dévelo
 ### **💾 Développement Back-end**
 - 🏛️ **Architecture d’applications web** : Modèle MVC et bonnes pratiques
 - 🔗 **Création d’APIs sécurisées** : Mise en place et consommation d’APIs REST
-- 🗄️ **Bases de données SQL** : Conception et modélisation avec PostgreSQL
+- 🗄️ **Bases de données SQL** : Conception et modélisation avec MySQL et SQLite
 
 ### **📌 Méthodes & Pratiques**
 - 📊 **Développement agile** : Gestion de projet en Scrum et Kanban
